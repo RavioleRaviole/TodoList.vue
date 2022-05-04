@@ -4,7 +4,7 @@ This project is for ITIS 4440 - 001 Individual Project Assignment
 
 ### Image:
 
-![](/img/ScreenShot2022-05-03at10.42.01PM.png)
+![](/img/Screen%20Shot%202022-05-03%20at%2010.42.01%20PM.png)
 
 
 The purpose of this project is to allow users to create a to-do list. 

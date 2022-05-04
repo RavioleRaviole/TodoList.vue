@@ -4,7 +4,7 @@ This project is for ITIS 4440 - 001 Individual Project Assignment
 
 ###Image:
 
-TodoList.vue/img/Screen Shot 2022-05-03 at 10.42.01 PM.png
+TodoList.vue/img/ScreenShot2022-05-03at10.42.01PM.png
 
 
 The purpose of this project is to allow users to create a to-do list. 

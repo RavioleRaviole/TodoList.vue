@@ -2,6 +2,10 @@
 
 This project is for ITIS 4440 - 001 Individual Project Assignment
 
+###Image:
+/img
+
+
 The purpose of this project is to allow users to create a to-do list. 
 In this code the user will be able to create, edit, and remove code.
 

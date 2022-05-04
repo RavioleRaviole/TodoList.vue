@@ -18,6 +18,8 @@ In this code the user will be able to create, edit, and remove code.
 
 - To remove the code they can use the checkbox or x mark to remove the code
 
+- Filter All, completed, active
+
 The resources used to make this possible is
 https://vuejs.org
 https://www.w3schools.com

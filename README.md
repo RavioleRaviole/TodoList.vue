@@ -10,7 +10,7 @@ This project is for ITIS 4440 - 001 Individual Project Assignment
 The purpose of this project is to allow users to create a to-do list. 
 In this code the user will be able to create, edit, and remove code.
 
-### Interactions:
+### Current Interactions:
 
 - To create a task the user must input text and press enter
 
@@ -18,7 +18,7 @@ In this code the user will be able to create, edit, and remove code.
 
 - To remove the code they can use the checkbox or x mark to remove the code
 
-- Filter All, completed, active
+- Filter All, completed, active (incomplete)
 
 The resources used to make this possible is
 https://vuejs.org
